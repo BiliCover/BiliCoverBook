@@ -4,7 +4,5 @@
 
 # ![](https://bilicover2017.github.io/2017.12.25.jpg)
 
-# ![](https://bilicover2017.github.io/2017.12.25.jpg)
-
 
 
