@@ -1,7 +1,7 @@
 # Summary
 
-* [首頁](README.md)
-* [最新封面](index.md)
+* [封面](README.md)
+* [最新封面](today.md)
 * [2015年](2015nian.md)
   * [1月](2015nian/1yue.md)
   * [2月](2015nian/2yue.md)
