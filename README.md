@@ -5,7 +5,7 @@
 
 ### 快捷跳转： 
 1. [最新封面](/today.md)
-2. [前往舊版(即将废弃)](https://bilicover.github.io/)
+2. [前往舊版(即将废弃)](https://bilicover.github.io/index_old.html)
 
 ### 收藏来源：
 
