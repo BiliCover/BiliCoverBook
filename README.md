@@ -5,7 +5,10 @@
 
 ### 快捷跳转： 
 1. [最新封面](/today.md)
-2. [前往舊版(即将废弃)](https://bilicover.github.io/index_old.html)
+2. [2015年](/20150000.md)
+3. [2016年](/20160000.md)
+4. [2017年](/20170000.md)
+5. [返回舊版(即将废弃)](https://bilicover.github.io/index_old.html)
 
 ### 收藏来源：
 
