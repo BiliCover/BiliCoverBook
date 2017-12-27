@@ -11,5 +11,5 @@
 2. 2017年仅为[本人](http://space.bilibili.com/23682052)收藏，大部分遗失在兴趣圈了，因此并不齐全。 
 3. 2016/03/14-今天， iPad 截图来源自[BiliPlus](https://www.biliplus.com/task/splash_fetch/)
 
-### [欢迎加群交流](https://jq.qq.com/?_wv=1027&k=5CFpBt7)：
+### [欢迎加群交流：](https://jq.qq.com/?_wv=1027&k=5CFpBt7)
 ![](https://bilicoverimg.github.io/qrcode.jpg)
