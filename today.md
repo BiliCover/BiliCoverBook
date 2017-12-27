@@ -1,4 +1,4 @@
-# 今日封面
+# 最新封面
 
 # [2017.12.27-一月新番](http://www.bilibili.com/blackboard/activity-xmas2017.html)
 
