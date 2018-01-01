@@ -4,7 +4,6 @@
 * [最新封面](https://bilicover2018.github.io/today.md)
 
 ## 生日封面
-* 點擊展開 縮小
   * [生日默认封面](birthday/00.md)
   * [水瓶座\(1月21日～2月19日\)](birthday/01.md)
   * [双鱼座\(2月20日～3月20日\)](birthday/02.md)
