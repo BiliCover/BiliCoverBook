@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [最新封面](2017/20171228.md)
+* [最新封面](https://bilicover2018.github.io/today.md)
 
 ## 生日封面
 * 點擊展開 縮小
